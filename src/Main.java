@@ -144,7 +144,6 @@ public class Main {
                         System.out.println("Error en la entrada de datos. Por favor, ingrese datos válidos.");
                     }
                     break;
-
                 case 7:
                     // Opción para registrar un préstamo de libro
                     try {
